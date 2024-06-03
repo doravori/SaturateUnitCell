@@ -25,3 +25,6 @@ python main.py file_name molecule_name [--convert] [--sort] [--define-bond] [--s
 - --sort: Sort atoms by specified element order.
 - --define-bond: Define bonds and plot distance histograms.
 - --saturate: Saturate the molecule structure.
+
+## License
+This project is licensed under the MIT License. 
